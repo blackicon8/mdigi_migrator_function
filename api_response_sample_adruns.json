@@ -1,0 +1,897 @@
+{
+    "campaign": {
+        "erpCampaign": {
+            "name": "Kakaó Macchiato",
+            "dateFrom": "2023-11-01T00:00:00.000Z",
+            "dateTo": "2023-11-30T00:00:00.000Z"
+        },
+        "customFieldNames": [],
+        "id": "c000a83b-133a-4339-b2c2-d2f4337d1538",
+        "externalId": null,
+        "campaign": "Kakaó Macchiato",
+        "startDate": "2023-11-01T00:00:00.000Z",
+        "endDate": "2023-11-30T00:00:00.000Z",
+        "target": "18-49",
+        "planner": "Papp Emese",
+        "fee": 15,
+        "exchangeCurrency": "HUF",
+        "buffer": 0,
+        "budget": 6200000,
+        "budgetType": "Client Net",
+        "state": "Buying",
+        "version": 2,
+        "buyingPeriodStart": null,
+        "buyingPeriodEnd": null,
+        "adServerBuffer": 20,
+        "adServerDiscount": 0,
+        "archivedAt": null,
+        "customId": "mID23-00027",
+        "isoCountryCode": 348,
+        "createdAt": "2023-10-25T11:51:23.456Z",
+        "updatedAt": "2023-11-03T08:20:58.940Z",
+        "brandId": "7fe1a032-ada6-41dd-b941-d920a9698178",
+        "variantId": null,
+        "agencyId": "5fdf3613-c58c-4aaf-b6e3-6be14596cc9b",
+        "client": {
+            "id": "fa0767e1-b086-46d6-9bce-9649a7654670",
+            "externalId": 834,
+            "name": "FrieslandCampina Hungária Zrt.",
+            "settings": [
+                {
+                    "id": "b06c83be-58c3-4e2e-b8e5-0228b0ae4cab",
+                    "agencyId": "5fdf3613-c58c-4aaf-b6e3-6be14596cc9b",
+                    "defaultFee": null,
+                    "excelTemplateName": "default.xlsx",
+                    "defaultAdServerId": "aa1d51a9-74d8-4efc-8ce3-753a438abbdc"
+                }
+            ]
+        },
+        "brand": {
+            "id": "7fe1a032-ada6-41dd-b941-d920a9698178",
+            "name": "Pöttyös Kakaó - Pöttyös",
+            "clientId": "fa0767e1-b086-46d6-9bce-9649a7654670"
+        },
+        "variant": null,
+        "jobs": [
+            {
+                "id": "1bfe71e0-3f96-4d05-8e71-71b263fe2842",
+                "jobId": "88687",
+                "isDefault": true,
+                "name": "Pöttyös-Ka_Kakaó-Macchiato_2023_11_YT",
+                "code": "MET1007",
+                "year": 2023,
+                "jobType": "channel",
+                "channelId": "060f5ee2-aaeb-4ad7-9473-62673954da6c",
+                "isExternal": false,
+                "campaignId": "c000a83b-133a-4339-b2c2-d2f4337d1538"
+            },
+            {
+                "id": "852046cf-97bc-4676-9c9d-9d34e647c086",
+                "jobId": "88687",
+                "isDefault": true,
+                "name": "Pöttyös-Ka_Kakaó-Macchiato_2023_11_DISP",
+                "code": "MET1007",
+                "year": 2023,
+                "jobType": "channel",
+                "channelId": "5b7ce31e-212e-4977-bd8a-342eb9723ee9",
+                "isExternal": false,
+                "campaignId": "c000a83b-133a-4339-b2c2-d2f4337d1538"
+            },
+            {
+                "id": "b42a4953-a6aa-41f1-9632-5a06dec2b5a7",
+                "jobId": "88687",
+                "isDefault": false,
+                "name": "Pöttyös_Kakaó Macchiato",
+                "code": "MET1007",
+                "year": 2023,
+                "jobType": "channel",
+                "channelId": "5b7ce31e-212e-4977-bd8a-342eb9723ee9",
+                "isExternal": false,
+                "campaignId": "c000a83b-133a-4339-b2c2-d2f4337d1538"
+            },
+            {
+                "id": "b85c146b-e044-4db1-81f1-b9763bcaa4b9",
+                "jobId": "88687",
+                "isDefault": true,
+                "name": "Pöttyös-Ka_Kakaó-Macchiato_2023_11_PRG",
+                "code": "MET1007",
+                "year": 2023,
+                "jobType": "channel",
+                "channelId": "be15c870-7ee5-457f-a296-10b3502a1fed",
+                "isExternal": false,
+                "campaignId": "c000a83b-133a-4339-b2c2-d2f4337d1538"
+            },
+            {
+                "id": "f3c2b828-74ea-4475-ba50-d5b32b6112d1",
+                "jobId": "88687",
+                "isDefault": true,
+                "name": "Pöttyös-Ka_Kakaó-Macchiato_2023_11_SERV",
+                "code": "MET1007",
+                "year": 2023,
+                "jobType": "service",
+                "channelId": null,
+                "isExternal": false,
+                "campaignId": "c000a83b-133a-4339-b2c2-d2f4337d1538"
+            }
+        ],
+        "adVerifications": [],
+        "exchangeRatePeriods": [
+            {
+                "id": "57374433-a7ac-4a91-a775-2345b995a84d",
+                "campaignId": "c000a83b-133a-4339-b2c2-d2f4337d1538",
+                "periodStart": "2023-11-01T00:00:00.000Z",
+                "exchangeRates": [
+                    {
+                        "id": "3e9c7fd1-9887-4438-ada9-44188b3237a7",
+                        "campaignId": "c000a83b-133a-4339-b2c2-d2f4337d1538",
+                        "exchangeRatePeriodId": "57374433-a7ac-4a91-a775-2345b995a84d",
+                        "currency": "EUR",
+                        "exchangeRate": 383.59
+                    },
+                    {
+                        "id": "8019223e-ba35-464c-ab39-032ecf41f963",
+                        "campaignId": "c000a83b-133a-4339-b2c2-d2f4337d1538",
+                        "exchangeRatePeriodId": "57374433-a7ac-4a91-a775-2345b995a84d",
+                        "currency": "GBP",
+                        "exchangeRate": 439.39
+                    },
+                    {
+                        "id": "9fde6acf-dfc5-401c-872b-86251f032fe4",
+                        "campaignId": "c000a83b-133a-4339-b2c2-d2f4337d1538",
+                        "exchangeRatePeriodId": "57374433-a7ac-4a91-a775-2345b995a84d",
+                        "currency": "USD",
+                        "exchangeRate": 363.73
+                    }
+                ]
+            }
+        ],
+        "campaignGoals": [
+            {
+                "id": "526e6cfd-afc8-4ee9-9aae-29f21e66d38b",
+                "name": "Awareness"
+            }
+        ],
+        "jobDistributionType": {
+            "id": "9c30ff14-7933-4f33-9062-9064af07c841",
+            "campaignId": "c000a83b-133a-4339-b2c2-d2f4337d1538",
+            "jobDistributionType": "one_job"
+        },
+        "language": "HUN",
+        "country": {
+            "id": 98,
+            "name": "Hungary",
+            "isoAlphaTwo": "HU",
+            "isoAlphaThree": "HUN",
+            "isoCountryCode": 348,
+            "isSelected": true
+        }
+    },
+    "adruns": [
+        {
+            "date": [
+                "2023-11-06T00:00:00.000Z"
+            ],
+            "weeklyBreakdown": [
+                {
+                    "year": 2023,
+                    "week": 44,
+                    "units": 0
+                },
+                {
+                    "year": 2023,
+                    "week": 45,
+                    "units": 1
+                },
+                {
+                    "year": 2023,
+                    "week": 46,
+                    "units": 0
+                },
+                {
+                    "year": 2023,
+                    "week": 47,
+                    "units": 0
+                },
+                {
+                    "year": 2023,
+                    "week": 48,
+                    "units": 0
+                }
+            ],
+            "customFields": {},
+            "adVerifications": [],
+            "ratecardPeriods": [
+                {
+                    "ratecard": 3200000,
+                    "periodStart": "2023-11-06T00:00:00.000Z"
+                }
+            ],
+            "id": "9021d685-99e6-48ee-b74b-de5fbe4ea503",
+            "duration": null,
+            "pricingType": "HUF/Day",
+            "units": 1,
+            "placement": "RON",
+            "estimatedAV": 3500000,
+            "estimatedCT": 3500,
+            "estimatedReachUU": 0,
+            "estimatedCTR": 0.1,
+            "estimatedLead": 0,
+            "estimatedAcquisition": 0,
+            "volumeDiscount": 0,
+            "otherDiscount": 0,
+            "agencyDiscount": 0,
+            "portfolioDiscount": 0,
+            "strategicDiscount": 0,
+            "fee": 15,
+            "internalComment": null,
+            "clientComment": null,
+            "bookingComment": null,
+            "financialComment": null,
+            "adserverCostBuffer": 20,
+            "adServerDiscount": 0,
+            "secondAdvertiserCharge": 0,
+            "specialCharge": 0,
+            "otherCharge": 0,
+            "version": 6,
+            "advertisingCode": "display/multiplatform/branding/non-programmatic",
+            "formatUrl": null,
+            "customId": "mID23.00027.001",
+            "skipBuying": false,
+            "skipAdServerBuying": true,
+            "targetDetail": "",
+            "creativeId": "ee663c6e-509d-45af-a6d4-e4aeb320e88a",
+            "campaignId": "c000a83b-133a-4339-b2c2-d2f4337d1538",
+            "salesHouse": {
+                "id": "de7ef7c4-145d-46e4-8829-abd796ef51e3",
+                "externalId": null,
+                "name": "Indamedia",
+                "defaultFee": null,
+                "inactive": false,
+                "allowInvoiceOverride": false,
+                "dealers": [
+                    {
+                        "id": 9006
+                    }
+                ]
+            },
+            "site": {
+                "id": "7d9b46c3-4bf9-465c-b47e-b7244f38c5a9",
+                "externalId": null,
+                "name": "Indamax package",
+                "technicalCostErpId": null,
+                "channelId": "5b7ce31e-212e-4977-bd8a-342eb9723ee9",
+                "salesHouseId": "de7ef7c4-145d-46e4-8829-abd796ef51e3",
+                "mediums": [
+                    {
+                        "id": 15491
+                    }
+                ],
+                "cmSeparations": []
+            },
+            "adRunGoals": [
+                {
+                    "id": "526e6cfd-afc8-4ee9-9aae-29f21e66d38b",
+                    "name": "Awareness"
+                }
+            ],
+            "adRunTargets": [],
+            "format": {
+                "id": "d2c86485-cdcc-411a-9cb7-88f92b4bbc84",
+                "name": "Bannermix (Indamedia)",
+                "singleSize": false
+            },
+            "sizes": [
+                {
+                    "id": "307a4966-2880-4a3a-91e9-6a23c58c186b",
+                    "name": "640x360",
+                    "isCustom": false,
+                    "formatId": "d2c86485-cdcc-411a-9cb7-88f92b4bbc84"
+                },
+                {
+                    "id": "7b541c2b-25ce-4c27-b042-2ab8eb23edf9",
+                    "name": "970x250",
+                    "isCustom": false,
+                    "formatId": "d2c86485-cdcc-411a-9cb7-88f92b4bbc84"
+                },
+                {
+                    "id": "bcb7722a-1a87-4c35-b434-d04530c36fcc",
+                    "name": "300x250",
+                    "isCustom": false,
+                    "formatId": "d2c86485-cdcc-411a-9cb7-88f92b4bbc84"
+                },
+                {
+                    "id": "ffc29f1d-0026-4690-beb9-a20d5a1aff58",
+                    "name": "300x600",
+                    "isCustom": false,
+                    "formatId": "d2c86485-cdcc-411a-9cb7-88f92b4bbc84"
+                }
+            ],
+            "group": null,
+            "baseOfAdServing": {
+                "id": "ee663c6e-509d-45af-a6d4-e4aeb320e88a",
+                "name": "Non-Video-In Page",
+                "clientPrice": 0.019,
+                "agencyPrice": 0.019,
+                "exchangeCurrency": "eur",
+                "divideBy1000": true,
+                "adServerId": "aa1d51a9-74d8-4efc-8ce3-753a438abbdc",
+                "clientId": "fa0767e1-b086-46d6-9bce-9649a7654670",
+                "parentId": "c25fba8f-2cfc-4fa5-8cec-2b5e1fd27292",
+                "adServer": {
+                    "id": "aa1d51a9-74d8-4efc-8ce3-753a438abbdc",
+                    "name": "DCM",
+                    "dealerId": 6971,
+                    "mediumId": 8930,
+                    "technicalCostId": 21739,
+                    "advertisingCode": "adserver/desktop/branding/non-programmatic",
+                    "allowInvoiceOverride": true,
+                    "agencyId": "5fdf3613-c58c-4aaf-b6e3-6be14596cc9b"
+                }
+            },
+            "operation": "update",
+            "placementId": null,
+            "usedInComposite": null,
+            "hasPpcCampaign": false,
+            "usedInMerged": []
+        },
+        {
+            "date": [
+                [
+                    "2023-11-01T00:00:00.000Z",
+                    "2023-11-30T00:00:00.000Z"
+                ]
+            ],
+            "weeklyBreakdown": [
+                {
+                    "year": 2023,
+                    "week": 44,
+                    "units": 406482
+                },
+                {
+                    "year": 2023,
+                    "week": 45,
+                    "units": 569077
+                },
+                {
+                    "year": 2023,
+                    "week": 46,
+                    "units": 569077
+                },
+                {
+                    "year": 2023,
+                    "week": 47,
+                    "units": 569077
+                },
+                {
+                    "year": 2023,
+                    "week": 48,
+                    "units": 325187
+                }
+            ],
+            "customFields": {},
+            "adVerifications": [],
+            "ratecardPeriods": [
+                {
+                    "ratecard": 0.35,
+                    "periodStart": "2023-10-31T23:00:00.000Z"
+                }
+            ],
+            "id": "5e899b14-4f53-478d-a797-0d752fb3a15b",
+            "duration": null,
+            "pricingType": "HUF/AV",
+            "units": 2438900,
+            "placement": "Video pages",
+            "estimatedAV": 2438900,
+            "estimatedCT": 4800,
+            "estimatedReachUU": 0,
+            "estimatedCTR": 0.1968,
+            "estimatedLead": 0,
+            "estimatedAcquisition": 0,
+            "volumeDiscount": 0,
+            "otherDiscount": 0,
+            "agencyDiscount": 0,
+            "portfolioDiscount": 0,
+            "strategicDiscount": 0,
+            "fee": 15,
+            "internalComment": null,
+            "clientComment": null,
+            "bookingComment": null,
+            "financialComment": null,
+            "adserverCostBuffer": 20,
+            "adServerDiscount": 0,
+            "secondAdvertiserCharge": 0,
+            "specialCharge": 0,
+            "otherCharge": 0,
+            "version": 1,
+            "advertisingCode": "video (in-stream)/multiplatform/performance/non-programmatic",
+            "formatUrl": null,
+            "customId": "mID23.00027.002",
+            "skipBuying": false,
+            "skipAdServerBuying": true,
+            "targetDetail": "",
+            "creativeId": "6cf8b9b1-94a8-43cf-b333-538dadaf38b4",
+            "campaignId": "c000a83b-133a-4339-b2c2-d2f4337d1538",
+            "salesHouse": {
+                "id": "b3c5e0f3-9109-4a94-92ab-543edbd7b444",
+                "externalId": null,
+                "name": "Google***",
+                "defaultFee": null,
+                "inactive": false,
+                "allowInvoiceOverride": true,
+                "dealers": [
+                    {
+                        "id": 6971
+                    }
+                ]
+            },
+            "site": {
+                "id": "47268e3e-537f-4a82-b70c-e20601792aa4",
+                "externalId": null,
+                "name": "Youtube",
+                "technicalCostErpId": null,
+                "channelId": "060f5ee2-aaeb-4ad7-9473-62673954da6c",
+                "salesHouseId": "b3c5e0f3-9109-4a94-92ab-543edbd7b444",
+                "mediums": [
+                    {
+                        "id": 6864
+                    }
+                ],
+                "cmSeparations": []
+            },
+            "adRunGoals": [
+                {
+                    "id": "526e6cfd-afc8-4ee9-9aae-29f21e66d38b",
+                    "name": "Awareness"
+                }
+            ],
+            "adRunTargets": [],
+            "format": {
+                "id": "f4b44d12-750d-4a11-bbb7-f80640c69634",
+                "name": "YouTube Non-skippable",
+                "singleSize": false
+            },
+            "sizes": [
+                {
+                    "id": "01307b49-17c1-42ef-8992-76537548e644",
+                    "name": "YouTube Bumper Ad",
+                    "isCustom": false,
+                    "formatId": "f4b44d12-750d-4a11-bbb7-f80640c69634"
+                }
+            ],
+            "group": null,
+            "baseOfAdServing": {
+                "id": "6cf8b9b1-94a8-43cf-b333-538dadaf38b4",
+                "name": "Standard HTML5, GIF/JPG (1x1)",
+                "clientPrice": 0.019,
+                "agencyPrice": 0.019,
+                "exchangeCurrency": "eur",
+                "divideBy1000": true,
+                "adServerId": "aa1d51a9-74d8-4efc-8ce3-753a438abbdc",
+                "clientId": "fa0767e1-b086-46d6-9bce-9649a7654670",
+                "parentId": "59f40629-7bc0-47c5-9468-f3345298c60d",
+                "adServer": {
+                    "id": "aa1d51a9-74d8-4efc-8ce3-753a438abbdc",
+                    "name": "DCM",
+                    "dealerId": 6971,
+                    "mediumId": 8930,
+                    "technicalCostId": 21739,
+                    "advertisingCode": "adserver/desktop/branding/non-programmatic",
+                    "allowInvoiceOverride": true,
+                    "agencyId": "5fdf3613-c58c-4aaf-b6e3-6be14596cc9b"
+                }
+            },
+            "operation": "update",
+            "placementId": null,
+            "usedInComposite": null,
+            "hasPpcCampaign": false,
+            "usedInMerged": []
+        },
+        {
+            "date": [
+                [
+                    "2023-11-01T00:00:00.000Z",
+                    "2023-11-30T00:00:00.000Z"
+                ]
+            ],
+            "weeklyBreakdown": [
+                {
+                    "year": 2023,
+                    "week": 44,
+                    "units": 153609
+                },
+                {
+                    "year": 2023,
+                    "week": 45,
+                    "units": 215054
+                },
+                {
+                    "year": 2023,
+                    "week": 46,
+                    "units": 215054
+                },
+                {
+                    "year": 2023,
+                    "week": 47,
+                    "units": 215054
+                },
+                {
+                    "year": 2023,
+                    "week": 48,
+                    "units": 122888
+                }
+            ],
+            "customFields": {},
+            "adVerifications": [],
+            "ratecardPeriods": [
+                {
+                    "ratecard": 0.8,
+                    "periodStart": "2023-11-01T00:00:00.000Z"
+                }
+            ],
+            "id": "b99c014f-8adc-430b-9a31-b2b2b24c456d",
+            "duration": null,
+            "pricingType": "HUF/AV",
+            "units": 921659,
+            "placement": "RON",
+            "estimatedAV": 921659,
+            "estimatedCT": 922,
+            "estimatedReachUU": 0,
+            "estimatedCTR": 0.1,
+            "estimatedLead": 0,
+            "estimatedAcquisition": 0,
+            "volumeDiscount": 0,
+            "otherDiscount": 0,
+            "agencyDiscount": 0,
+            "portfolioDiscount": 0,
+            "strategicDiscount": 0,
+            "fee": 15,
+            "internalComment": null,
+            "clientComment": null,
+            "bookingComment": null,
+            "financialComment": null,
+            "adserverCostBuffer": 20,
+            "adServerDiscount": 0,
+            "secondAdvertiserCharge": 0,
+            "specialCharge": 0,
+            "otherCharge": 0,
+            "version": 2,
+            "advertisingCode": "display/multiplatform/branding/programmatic",
+            "formatUrl": null,
+            "customId": "mID23.00027.003",
+            "skipBuying": false,
+            "skipAdServerBuying": true,
+            "targetDetail": "",
+            "creativeId": "6cf8b9b1-94a8-43cf-b333-538dadaf38b4",
+            "campaignId": "c000a83b-133a-4339-b2c2-d2f4337d1538",
+            "salesHouse": {
+                "id": "fef422c1-6fed-4b4c-ad48-c96b0c9dc8a6",
+                "externalId": null,
+                "name": "Mcsoport PBU***",
+                "defaultFee": null,
+                "inactive": false,
+                "allowInvoiceOverride": true,
+                "dealers": [
+                    {
+                        "id": 7
+                    },
+                    {
+                        "id": 10438
+                    }
+                ]
+            },
+            "site": {
+                "id": "de71c494-7f34-47a3-bcd7-b86d7b2b590a",
+                "externalId": null,
+                "name": "PBU",
+                "technicalCostErpId": null,
+                "channelId": "be15c870-7ee5-457f-a296-10b3502a1fed",
+                "salesHouseId": "fef422c1-6fed-4b4c-ad48-c96b0c9dc8a6",
+                "mediums": [
+                    {
+                        "id": 11427
+                    }
+                ],
+                "cmSeparations": [
+                    {
+                        "mediumId": 11427,
+                        "dealerId": 7,
+                        "ratio": 100
+                    },
+                    {
+                        "mediumId": 11427,
+                        "dealerId": 10438,
+                        "ratio": 0
+                    }
+                ]
+            },
+            "adRunGoals": [
+                {
+                    "id": "526e6cfd-afc8-4ee9-9aae-29f21e66d38b",
+                    "name": "Awareness"
+                }
+            ],
+            "adRunTargets": [],
+            "format": {
+                "id": "451b97e8-43b3-40bb-99c5-cc5b0a3540c6",
+                "name": "Mconnect Bannermix",
+                "singleSize": false
+            },
+            "sizes": [
+                {
+                    "id": "2cfe5fa0-0b3e-48ab-9b4c-dc6829255fc6",
+                    "name": "300x250",
+                    "isCustom": false,
+                    "formatId": "451b97e8-43b3-40bb-99c5-cc5b0a3540c6"
+                },
+                {
+                    "id": "3c87840c-8141-46c9-b9fe-58b15e071c4d",
+                    "name": "640x360",
+                    "isCustom": false,
+                    "formatId": "451b97e8-43b3-40bb-99c5-cc5b0a3540c6"
+                },
+                {
+                    "id": "4ec3c7ac-777b-4a7c-9420-fb766856b141",
+                    "name": "160x600",
+                    "isCustom": false,
+                    "formatId": "451b97e8-43b3-40bb-99c5-cc5b0a3540c6"
+                },
+                {
+                    "id": "8b885292-7a02-476a-a63f-311c652d039f",
+                    "name": "300x600",
+                    "isCustom": false,
+                    "formatId": "451b97e8-43b3-40bb-99c5-cc5b0a3540c6"
+                },
+                {
+                    "id": "c9a7da43-478f-4952-9afb-513cb16c30c1",
+                    "name": "970x250",
+                    "isCustom": false,
+                    "formatId": "451b97e8-43b3-40bb-99c5-cc5b0a3540c6"
+                }
+            ],
+            "group": null,
+            "baseOfAdServing": {
+                "id": "6cf8b9b1-94a8-43cf-b333-538dadaf38b4",
+                "name": "Standard HTML5, GIF/JPG (1x1)",
+                "clientPrice": 0.019,
+                "agencyPrice": 0.019,
+                "exchangeCurrency": "eur",
+                "divideBy1000": true,
+                "adServerId": "aa1d51a9-74d8-4efc-8ce3-753a438abbdc",
+                "clientId": "fa0767e1-b086-46d6-9bce-9649a7654670",
+                "parentId": "59f40629-7bc0-47c5-9468-f3345298c60d",
+                "adServer": {
+                    "id": "aa1d51a9-74d8-4efc-8ce3-753a438abbdc",
+                    "name": "DCM",
+                    "dealerId": 6971,
+                    "mediumId": 8930,
+                    "technicalCostId": 21739,
+                    "advertisingCode": "adserver/desktop/branding/non-programmatic",
+                    "allowInvoiceOverride": true,
+                    "agencyId": "5fdf3613-c58c-4aaf-b6e3-6be14596cc9b"
+                }
+            },
+            "operation": "update",
+            "placementId": null,
+            "usedInComposite": null,
+            "hasPpcCampaign": false,
+            "usedInMerged": []
+        },
+        {
+            "date": [
+                [
+                    "2023-11-01T00:00:00.000Z",
+                    "2023-11-30T00:00:00.000Z"
+                ]
+            ],
+            "weeklyBreakdown": [
+                {
+                    "year": 2023,
+                    "week": 44,
+                    "units": 33332
+                },
+                {
+                    "year": 2023,
+                    "week": 45,
+                    "units": 46667
+                },
+                {
+                    "year": 2023,
+                    "week": 46,
+                    "units": 46667
+                },
+                {
+                    "year": 2023,
+                    "week": 47,
+                    "units": 46667
+                },
+                {
+                    "year": 2023,
+                    "week": 48,
+                    "units": 26667
+                }
+            ],
+            "customFields": {},
+            "adVerifications": [],
+            "ratecardPeriods": [
+                {
+                    "ratecard": 8,
+                    "periodStart": "2023-11-01T00:00:00.000Z"
+                }
+            ],
+            "id": "186a8a4f-a8ff-4f1d-a3f0-11d5f0c1783d",
+            "duration": null,
+            "pricingType": "HUF/AV",
+            "units": 200000,
+            "placement": "RON",
+            "estimatedAV": 200000,
+            "estimatedCT": 0,
+            "estimatedReachUU": 0,
+            "estimatedCTR": 0,
+            "estimatedLead": 0,
+            "estimatedAcquisition": 0,
+            "volumeDiscount": 65,
+            "otherDiscount": 0,
+            "agencyDiscount": 15,
+            "portfolioDiscount": 0,
+            "strategicDiscount": 0,
+            "fee": 15,
+            "internalComment": null,
+            "clientComment": null,
+            "bookingComment": null,
+            "financialComment": null,
+            "adserverCostBuffer": 20,
+            "adServerDiscount": 0,
+            "secondAdvertiserCharge": 0,
+            "specialCharge": 0,
+            "otherCharge": 0,
+            "version": 2,
+            "advertisingCode": "display/multiplatform/branding/non-programmatic",
+            "formatUrl": null,
+            "customId": "mID23.00027.004",
+            "skipBuying": false,
+            "skipAdServerBuying": true,
+            "targetDetail": "",
+            "creativeId": "6cf8b9b1-94a8-43cf-b333-538dadaf38b4",
+            "campaignId": "c000a83b-133a-4339-b2c2-d2f4337d1538",
+            "salesHouse": {
+                "id": "4a580814-d5a8-454c-be42-462d2e0ce84a",
+                "externalId": null,
+                "name": "Infinety",
+                "defaultFee": null,
+                "inactive": false,
+                "allowInvoiceOverride": false,
+                "dealers": [
+                    {
+                        "id": 9872
+                    }
+                ]
+            },
+            "site": {
+                "id": "621f2f35-af75-40d3-ba5a-e10adc62e31d",
+                "externalId": null,
+                "name": "UV package-Selected sites",
+                "technicalCostErpId": null,
+                "channelId": "5b7ce31e-212e-4977-bd8a-342eb9723ee9",
+                "salesHouseId": "4a580814-d5a8-454c-be42-462d2e0ce84a",
+                "mediums": [
+                    {
+                        "id": 9903
+                    }
+                ],
+                "cmSeparations": []
+            },
+            "adRunGoals": [
+                {
+                    "id": "526e6cfd-afc8-4ee9-9aae-29f21e66d38b",
+                    "name": "Awareness"
+                }
+            ],
+            "adRunTargets": [],
+            "format": {
+                "id": "228cb44e-f167-4669-a751-1026069fe29e",
+                "name": "Bannermix (Infinety)",
+                "singleSize": false
+            },
+            "sizes": [
+                {
+                    "id": "385e4d18-855b-42a0-bc0c-6535503b6c0f",
+                    "name": "Filter Wave - 300x250",
+                    "isCustom": false,
+                    "formatId": "228cb44e-f167-4669-a751-1026069fe29e"
+                },
+                {
+                    "id": "60af431a-82e6-435d-94c2-5885e6504572",
+                    "name": "Filter Wave - 300x600",
+                    "isCustom": false,
+                    "formatId": "228cb44e-f167-4669-a751-1026069fe29e"
+                },
+                {
+                    "id": "a14066dd-1e56-46e6-83a4-105deee6b611",
+                    "name": "Spotlight + 300x250",
+                    "isCustom": false,
+                    "formatId": "228cb44e-f167-4669-a751-1026069fe29e"
+                },
+                {
+                    "id": "a1cac6de-d514-4f27-bd31-3d39a316cf19",
+                    "name": "Spotlight - 300x250",
+                    "isCustom": false,
+                    "formatId": "228cb44e-f167-4669-a751-1026069fe29e"
+                },
+                {
+                    "id": "b664b8ac-3e82-4d32-a401-11b894220821",
+                    "name": "Spotlight + 970x250",
+                    "isCustom": false,
+                    "formatId": "228cb44e-f167-4669-a751-1026069fe29e"
+                },
+                {
+                    "id": "caf241ca-f9df-4c01-a8b6-97b2d662aaf7",
+                    "name": "Spotlight + 300x600",
+                    "isCustom": false,
+                    "formatId": "228cb44e-f167-4669-a751-1026069fe29e"
+                },
+                {
+                    "id": "db511b47-b759-4f62-8648-b1871646e331",
+                    "name": "Spotlight - 300x600",
+                    "isCustom": false,
+                    "formatId": "228cb44e-f167-4669-a751-1026069fe29e"
+                },
+                {
+                    "id": "e730b0b7-6c32-47b1-ba2c-ea03fc8a6076",
+                    "name": "Filter Wave - 970x250",
+                    "isCustom": false,
+                    "formatId": "228cb44e-f167-4669-a751-1026069fe29e"
+                }
+            ],
+            "group": null,
+            "baseOfAdServing": {
+                "id": "6cf8b9b1-94a8-43cf-b333-538dadaf38b4",
+                "name": "Standard HTML5, GIF/JPG (1x1)",
+                "clientPrice": 0.019,
+                "agencyPrice": 0.019,
+                "exchangeCurrency": "eur",
+                "divideBy1000": true,
+                "adServerId": "aa1d51a9-74d8-4efc-8ce3-753a438abbdc",
+                "clientId": "fa0767e1-b086-46d6-9bce-9649a7654670",
+                "parentId": "59f40629-7bc0-47c5-9468-f3345298c60d",
+                "adServer": {
+                    "id": "aa1d51a9-74d8-4efc-8ce3-753a438abbdc",
+                    "name": "DCM",
+                    "dealerId": 6971,
+                    "mediumId": 8930,
+                    "technicalCostId": 21739,
+                    "advertisingCode": "adserver/desktop/branding/non-programmatic",
+                    "allowInvoiceOverride": true,
+                    "agencyId": "5fdf3613-c58c-4aaf-b6e3-6be14596cc9b"
+                }
+            },
+            "operation": "update",
+            "placementId": null,
+            "usedInComposite": null,
+            "hasPpcCampaign": false,
+            "usedInMerged": []
+        }
+    ],
+    "services": [
+        {
+            "id": "eb31dde1-90e2-4415-b9cd-504991daaa8f",
+            "campaignId": "c000a83b-133a-4339-b2c2-d2f4337d1538",
+            "price": 62672.81,
+            "discountPercentage": 0,
+            "buyingPeriodStart": "2023-11-01T00:00:00.000Z",
+            "buyingPeriodEnd": "2023-11-30T00:00:00.000Z",
+            "units": 1,
+            "customId": "mID23.00027.S01",
+            "skipBuying": false,
+            "service": {
+                "id": "96574ee0-200c-492e-b8dc-3b604ea300bb",
+                "name": "Mcsoport DSP díj",
+                "dealerId": 7,
+                "mediumId": 11427,
+                "technicalCostId": 28871,
+                "advertisingCode": "other/-/-/-",
+                "allowInvoiceOverride": true,
+                "agencyId": "5fdf3613-c58c-4aaf-b6e3-6be14596cc9b"
+            }
+        }
+    ]
+}
